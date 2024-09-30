@@ -42,10 +42,17 @@ Connections:
 
 ## App Screenshot
 
-![3e3110cf-27f1-480e-8cbf-96db5f14c9f2](https://github.com/user-attachments/assets/ec34bb40-ad69-4463-b679-0ae30a5764ee)
-![f1c743ae-d9bf-4914-9cc6-b63f4a06803f](https://github.com/user-attachments/assets/1f881e2c-c6c8-4575-b046-6e4258e561fc)
-![639cdbc7-c1db-4265-b15d-7a689c3beee2](https://github.com/user-attachments/assets/73793c0b-9c76-4a0a-9fb0-b65ea0433e31)
-![8fdde6a1-e4e1-4657-9a83-c88f2834a393](https://github.com/user-attachments/assets/a0ff6837-aba9-4eae-88d8-eabf9201da23)
+<!-- Image 1 -->
+<img src="https://github.com/user-attachments/assets/ec34bb40-ad69-4463-b679-0ae30a5764ee" alt="Screenshot 1" style="width:50%; height:auto; margin:10px;">
+
+<!-- Image 2 -->
+<img src="https://github.com/user-attachments/assets/1f881e2c-c6c8-4575-b046-6e4258e561fc" alt="Screenshot 2" style="width:50%; height:auto; margin:10px;">
+
+<!-- Image 3 -->
+<img src="https://github.com/user-attachments/assets/73793c0b-9c76-4a0a-9fb0-b65ea0433e31" alt="Screenshot 3" style="width:50%; height:auto; margin:10px;">
+
+<!-- Image 4 -->
+<img src="https://github.com/user-attachments/assets/a0ff6837-aba9-4eae-88d8-eabf9201da23" alt="Screenshot 4" style="width:50%; height:auto; margin:10px;">
 
 
 ## Installation
