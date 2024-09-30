@@ -93,7 +93,7 @@ class RelayControlPage extends StatefulWidget {
 }
 
 class _RelayControlPageState extends State<RelayControlPage> {
-  final String blynkToken = "55Nf12-EwePY4NRqUP5pE10ggzKlbxmZ";
+  final String blynkToken = "BLYNK_TOKEN";
   final String blynkServer = "blynk.cloud";
   List<bool> relayStates = [false, false, false, false];
   bool isDeviceOnline = false;
