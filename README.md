@@ -18,7 +18,7 @@ Relayz is a DIY smart home automation system that allows you to control up to fo
 
 
 
-![b4ddb315-f604-41c9-8cfb-fc689f53070e](https://github.com/user-attachments/assets/b30659bb-8798-4b98-aa89-0d7e00f79de0)
+![b4ddb315-f604-41c9-8cfb-fc689f53070e](https://github.com/user-attachments/assets/b30659bb-8798-4b98-aa89-0d7e00f79de0) 
 
 
 
@@ -39,6 +39,14 @@ Connections:
 - Arduino IDE
 - Blynk IoT account
 - Flutter SDK
+
+## App Screenshot
+
+![3e3110cf-27f1-480e-8cbf-96db5f14c9f2](https://github.com/user-attachments/assets/ec34bb40-ad69-4463-b679-0ae30a5764ee)
+![f1c743ae-d9bf-4914-9cc6-b63f4a06803f](https://github.com/user-attachments/assets/1f881e2c-c6c8-4575-b046-6e4258e561fc)
+![639cdbc7-c1db-4265-b15d-7a689c3beee2](https://github.com/user-attachments/assets/73793c0b-9c76-4a0a-9fb0-b65ea0433e31)
+![8fdde6a1-e4e1-4657-9a83-c88f2834a393](https://github.com/user-attachments/assets/a0ff6837-aba9-4eae-88d8-eabf9201da23)
+
 
 ## Installation
 
