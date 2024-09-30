@@ -91,7 +91,7 @@ https://github.com/user-attachments/assets/677756ee-5c5d-40cf-bca1-0a986147fc50
 
 ## Troubleshooting
 
-- Ensure your ESP32 and smartphone are on the same WiFi network
+- Ensure your ESP32 and smartphone are connected to internet
 - Check the serial monitor in Arduino IDE for any connection issues
 - Verify that your Blynk Auth Token is correct in both the ESP32 code and Flutter app
 
