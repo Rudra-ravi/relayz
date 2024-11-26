@@ -1,6 +1,6 @@
 # Relayz: Smart Home Automation
 
-![ic_launcher](https://github.com/user-attachments/assets/ba88557a-6145-4b63-ac8f-65608673c583)
+<img src="https://github.com/user-attachments/assets/ba88557a-6145-4b63-ac8f-65608673c583" alt="ic_launcher" style="width:200px; height:200px;">
 
 
 
@@ -18,7 +18,7 @@ Relayz is a DIY smart home automation system that allows you to control up to fo
 
 
 
-![b4ddb315-f604-41c9-8cfb-fc689f53070e](https://github.com/user-attachments/assets/b30659bb-8798-4b98-aa89-0d7e00f79de0) 
+<img src="https://github.com/user-attachments/assets/b30659bb-8798-4b98-aa89-0d7e00f79de0" alt="b4ddb315-f604-41c9-8cfb-fc689f53070e" style="width:500px; height:500px;">
 
 
 
@@ -42,18 +42,19 @@ Connections:
 
 ## App Screenshot
 
-<!-- Image 1 -->
-<img src="https://github.com/user-attachments/assets/ec34bb40-ad69-4463-b679-0ae30a5764ee" alt="Screenshot 1" style="width:50%; height:auto; margin:10px;">
+<div style="display: flex; justify-content: space-between;">
+  <!-- Image 1 -->
+  <img src="https://github.com/user-attachments/assets/ec34bb40-ad69-4463-b679-0ae30a5764ee" alt="Screenshot 1" style="width:23%; height:auto; margin:10px;">
 
-<!-- Image 2 -->
-<img src="https://github.com/user-attachments/assets/1f881e2c-c6c8-4575-b046-6e4258e561fc" alt="Screenshot 2" style="width:50%; height:auto; margin:10px;">
+  <!-- Image 2 -->
+  <img src="https://github.com/user-attachments/assets/1f881e2c-c6c8-4575-b046-6e4258e561fc" alt="Screenshot 2" style="width:23%; height:auto; margin:10px;">
 
-<!-- Image 3 -->
-<img src="https://github.com/user-attachments/assets/73793c0b-9c76-4a0a-9fb0-b65ea0433e31" alt="Screenshot 3" style="width:50%; height:auto; margin:10px;">
+  <!-- Image 3 -->
+  <img src="https://github.com/user-attachments/assets/73793c0b-9c76-4a0a-9fb0-b65ea0433e31" alt="Screenshot 3" style="width:23%; height:auto; margin:10px;">
 
-<!-- Image 4 -->
-<img src="https://github.com/user-attachments/assets/a0ff6837-aba9-4eae-88d8-eabf9201da23" alt="Screenshot 4" style="width:50%; height:auto; margin:10px;">
-
+  <!-- Image 4 -->
+  <img src="https://github.com/user-attachments/assets/a0ff6837-aba9-4eae-88d8-eabf9201da23" alt="Screenshot 4" style="width:23%; height:auto; margin:10px;">
+</div>
 
 ## Installation
 
